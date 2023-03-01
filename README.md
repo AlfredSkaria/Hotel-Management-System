@@ -1,2 +1,2 @@
 # **Hotel-Management-System**
-Sample project created for learning spring boot concepts
+Sample project for learning spring boot concepts
